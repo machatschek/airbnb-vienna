@@ -24,4 +24,6 @@ d) Demand and Occupancy rate:
 e) Reviews: 
 * What have customers frequently positively noticed?
 
+The data for this project is available here: http://insideairbnb.com/get-the-data.html
+
 For any questions or concerns, feel free to contact me under mrmachatschek@gmail.com.
